@@ -7,3 +7,5 @@
 Padrão Chain of Responsability:
     O padrão de projeto Chain of Responsibility é um padrão comportamental que permite que múltiplos objetos possam tratar uma solicitação sem o cliente precisar conhecer qual objeto a está tratando. Cada objeto na cadeia tem a capacidade de decidir se pode tratar a solicitação ou passá-la para o próximo objeto na cadeia.
 
+Padrão Memento:
+    O padrão de design Memento é um padrão comportamental que permite capturar e externalizar o estado interno de um objeto sem violar o encapsulamento. Isso permite que você salve e restaure o estado de um objeto em diferentes momentos sem revelar os detalhes de sua implementação interna.
